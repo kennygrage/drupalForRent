@@ -1,0 +1,6 @@
+Database Acct:
+admin -> password
+
+
+Drupal User1 Acct:
+admin -> password
