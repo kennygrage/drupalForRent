@@ -1,6 +1,6 @@
 # Dynasty Dish
 
-##### Dynasty Dish 10/29/2015
+##### Property For Rent 10/29/2015
 
 #### Kenny Grage
 
